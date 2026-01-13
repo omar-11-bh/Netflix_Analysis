@@ -14,7 +14,7 @@ netflix-mini-analysis/
 │   └── netflix_titles.csv
 │
 ├── notebooks/
-│   └── netflix_analysis.ipynb
+│   └── netflix_analysis.py
 │
 ├── requirements.txt
 └── README.md
@@ -28,7 +28,7 @@ netflix-mini-analysis/
 1. Install dependencies:
     pip install -r requirements.txt
 2. Open the notebook:
-    jupyter notebook notebooks/netflix_analysis.ipyn
+    jupyter notebook notebooks/netflix_analysis.py
    
 ## 📚 Dataset
 Netflix Movies and TV Shows dataset (Kaggle).
